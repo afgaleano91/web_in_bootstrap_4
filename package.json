@@ -1,0 +1,19 @@
+{
+  "name": "web_in_bootstrap_4",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de NodeJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afgaleano91/web_in_bootstrap_4.git"
+  },
+  "author": "Andres Galeano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afgaleano91/web_in_bootstrap_4/issues"
+  },
+  "homepage": "https://github.com/afgaleano91/web_in_bootstrap_4#readme"
+}
